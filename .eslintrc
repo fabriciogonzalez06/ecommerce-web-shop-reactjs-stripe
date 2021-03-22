@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "react-app",
+    "eslint:recommended"
+  ],
+  "rules": {
+    "object-curly-spacing": [
+      "error",
+      "always"
+    ],
+    "no-unused-vars": ["warn",{"varsIgnorePattern": "^[A-Z]"}]
+  
+    
+  }
+ 
+}
