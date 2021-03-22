@@ -10,4 +10,5 @@
     - npm start
 
 ### try it online     
- [link]([url](https://ecommerce-web-shop-stripe.netlify.app/))
+
+[ecommerce online stripe and commercejs](https://ecommerce-web-shop-stripe.netlify.app/)
